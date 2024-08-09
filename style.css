@@ -91,7 +91,9 @@ body {
    
 }
 .rodapeu{
-    padding: 0px 50px 50px 50px;
+    display: flex;
+  align-items: flex-end; /* Alinha à base */
+  height: 200px; /* Defina a altura conforme necessário *
    
 }
 
